@@ -3,9 +3,6 @@
 Hello World?
 
 
-Yogurt is actually not that good
-
-nah bro
-
+Yogurt er ganske godt, av og til.
 
 
